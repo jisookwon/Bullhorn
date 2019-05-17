@@ -1,0 +1,14 @@
+body {
+    /*background-color: ;*/
+
+    /*background-image: url("https://images.pexels.com/photos/114979/pexels-photo-114979.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");*/
+    background-color: lightblue ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+}
+#words{
+    padding-top: 50px;
+    font-size: larger;
+}
